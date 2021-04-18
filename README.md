@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Nikolay and i'm 21 years old self-taught programmer.
-- 👀 I’m interested in programming, football, fitness and self-improvement.
+- 👋 Hi, I’m Nikolay and i'm 21 years old software developer.
+- 👀 I’m interested in programming, mathematics, football and self-improvement.
 - 📫 FB - https://www.facebook.com/nikolaiivanov.ivanov.5
 - 📫 Student at - "High School Of Security And Economics - Plovdiv"
 
